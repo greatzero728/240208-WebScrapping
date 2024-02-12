@@ -1,0 +1,8 @@
+I have a Word file that contain table with 600~700 rows and 2 columns.
+The 1st column contains a name of product, 2nd column contains an price of product.
+The maximum lenght of name is around 50 letters. There are also '.' and '-' in the names and also some letters. There is no space in the product names.
+
+The algorithm must be able to open the website https://www.jomashop.com/, enter the name of product in 1st column into the search bar of Jomashop.
+Then open the product and see if the price of product from 2st column matches any number on the product page of the opened product.
+If no product is found when entering the name of product in 1st column, there should be a message at the end that this product was not found and even if the amount of money cannot be found, it should be reported.
+If there are more than one products after opening the search bar it is should also be reported.
