@@ -7,6 +7,10 @@ This project is a web scraping application that compares product prices from a W
 3. Compare the prices and categorize the products based on the comparison results.
 4. Save the results in a JSON file.
 
+## Workflow
+
+![Scraping for Jomashop(Watch Price) Workflow](Scraping%20for%20Jomashop%28Watch%20Price%29%2000_00_00-00_00_30.gif)
+
 ## Features
 
 - Extract product data from a Word document (`datalist.docx`).
@@ -17,10 +21,6 @@ This project is a web scraping application that compares product prices from a W
   - Products not found on the website.
   - Products with multiple matches on the website.
 - Save the categorized results in a JSON file (`data.json`).
-
-## Workflow
-
-![Scraping for Jomashop(Watch Price) Workflow](Scraping%20for%20Jomashop%28Watch%20Price%29%2000_00_00-00_00_30.gif)
 
 ## Installation
 
